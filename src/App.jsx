@@ -30,7 +30,7 @@ function App() {
 
       {/* Footer */}
       <footer className="hidden md:block text-center p-4 text-sm text-gray-500">
-        © {new Date().getFullYear()} [Your Name]. All rights reserved.
+        © {new Date().getFullYear()} ankurp. All rights reserved.
       </footer>
     </div>
   )

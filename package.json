@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "echo 'www.ankurp.info' > ./dist/CNAME && gh-pages -d build"
+    "deploy": "echo 'www.ankurp.info' > ./dist/CNAME && gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
