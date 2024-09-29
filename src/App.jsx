@@ -11,13 +11,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="min-h-screen bg-slate-100 flex flex-col">
+    <div className="min-h-screen bg-slate-200 flex flex-col">
       {/* Navigation */}
-      <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-slate-100 md:bg-transparent">
-        <ul className="flex flex-row justify-end space-x-4 md:space-x-6">
-          <li><Link to="/" className="text-sm transition-colors">home</Link></li>
-          <li><Link to="/influences" className="text-sm transition-colors">influences</Link></li>
-          <li><Link to="/log" className="text-sm transition-colors">logs</Link></li>
+      <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-slate-200 md:bg-transparent">
+        <ul className="flex flex-row justify-end space-x-4 md:space-x-6 list-none m-0 p-0">
+          <li><Link to="/" className="text-sm transition-colors no-underline">home</Link></li>
+          <li><Link to="/influences" className="text-sm transition-colors no-underline">influences</Link></li>
+          <li><Link to="/log" className="text-sm transition-colors no-underline">logs</Link></li>
         </ul>
       </nav>
 
