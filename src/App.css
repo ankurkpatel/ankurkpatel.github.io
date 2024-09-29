@@ -14,3 +14,30 @@
     /* font-family: 'Inconsolata', monospace; */
   }
 }
+
+p {
+  margin-bottom: 1.25em;
+  margin-top: 1.25em;
+}
+
+ul {
+  list-style: disc;
+  padding-left: 2rem;
+}
+
+a {
+  color: #4a5568; /* A dark gray color */
+  text-decoration: none;
+  border-bottom: 1px solid #4a5568;
+  transition: color 0.3s ease, border-color 0.3s ease;
+}
+
+a:hover {
+  color: #2d3748; /* A darker gray for hover state */
+  border-color: #2d3748;
+}
+
+a:focus {
+  outline: 2px solid #4a5568;
+  outline-offset: 2px;
+}
