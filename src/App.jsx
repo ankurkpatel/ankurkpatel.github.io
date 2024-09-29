@@ -5,36 +5,34 @@ import './App.css'
 import gfm from "remark-gfm"
 import MarkdownDisplay from './MarkdownDisplay'
 import landingPageContent from './mdFiles/LP.md?raw'
-
+import { Link, Outlet } from 'react-router-dom'
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
-      <div className="min-h-screen bg-slate-300 text-gray-700 flex flex-col">
-        {/* Navigation */}
-        <nav className="fixed bottom-0 right-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6">
+    <div className="min-h-screen bg-slate-100 flex flex-col">
+      {/* Navigation */}
+      <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-slate-100 md:bg-transparent">
         <ul className="flex flex-row justify-end space-x-4 md:space-x-6">
-    <li><a href="#about" className="text-sm hover:text-gray-900 transition-colors">About</a></li>
-    <li><a href="#interests" className="text-sm hover:text-gray-900 transition-colors">Interests</a></li>
-    <li><a href="#goals" className="text-sm hover:text-gray-900 transition-colors">Goals</a></li>
-  </ul>
-        </nav>
+          <li><Link to="/" className="text-sm transition-colors">home</Link></li>
+          <li><Link to="/influences" className="text-sm transition-colors">influences</Link></li>
+          <li><Link to="/log" className="text-sm transition-colors">logs</Link></li>
+        </ul>
+      </nav>
 
-        {/* Main Content */}
-        <main className="flex-grow px-4 md:px-0 pt-8 pb-16 md:py-8">
-          <div className="max-w-2xl mx-auto space-y-12">
-            <MarkdownDisplay content={landingPageContent}/>
-          </div>
-        </main>
+      {/* Main Content */}
+      <main className="flex-grow px-4 md:px-0 pt-8 pb-16 md:py-8 flex justify-center">
+      <div className="w-full md:w-6/12 pt-4 mt-10 text-pretty">
+          <Outlet />
+        </div>
+      </main>
 
-        {/* Footer */}
-        <footer className="hidden md:block text-center p-4 text-sm text-gray-500">
-          © {new Date().getFullYear()} [Your Name]. All rights reserved.
-        </footer>
-      </div>
-    </>
+      {/* Footer */}
+      <footer className="hidden md:block text-center p-4 text-sm text-gray-500">
+        © {new Date().getFullYear()} [Your Name]. All rights reserved.
+      </footer>
+    </div>
   )
 }
 

@@ -1,23 +1,23 @@
 
-9-5 : building ai regulatory compliance copilot
 
+
+9-5 : building ai regulatory compliance copilot
 
 perviously worked in data science/analytics space for almost a decade now. 
 
-
-extremely interested in education. convinced that we don't need 6+ hours of school every day. 1 hours is sufficient amount of teacher interaction everyday in primary school. learned a lot while working at ed nonprofit.
-
-
-
-**side projects** :  
-
+side projects :  
 - ai tutor
-- ielts practice guided by ai
 - llm for gujarati language
 
 
+football fan, manutd supporter, to a point that it's unhealthy -- last 10 years it ruined almost all weekends and still i watch them lol.
+ 
+passionate about education. convinced that we don't need 6+ hours of school every day. 1 hours is sufficient amount of teacher interaction everyday in primary school. learned a lot while working at ed nonprofit.
 
+learning to play ukulele, progress is slow but i'm in it for the long haul.
 
-*say hi on [@ankur7]() on X.*
+runner, goal is to run a marathon in next 12 months. 
 
 starting to be more active on X, planning to full time indie in few years.
+
+say hi on [@ankur7](https://x.com/_ankur7) on twitter.
