@@ -9,7 +9,7 @@
 
 @layer base {
   html {
-    font-family:  Inter;
+    font-family:  'Inter';
     /* font-family: 'Source Code Pro', monospace; */
     /* font-family: 'Inconsolata', monospace; */
   }
