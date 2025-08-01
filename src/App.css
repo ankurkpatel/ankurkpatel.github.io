@@ -9,8 +9,9 @@
   html {
     font-family: 'Ubuntu Mono', monospace;
     line-height: 1.6;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
+    color: #d1d5db;
   }
 }
 
@@ -50,6 +51,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.4;
   margin-top: 1.8em;
   margin-bottom: 0.8em;
+  color: #ffffff;
 }
 
 h1:first-child, h2:first-child, h3:first-child {

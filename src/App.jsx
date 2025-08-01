@@ -11,9 +11,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <div className="min-h-screen bg-black flex flex-col text-white">
+    <div className="min-h-screen bg-black flex flex-col text-gray-300">
       {/* Navigation */}
-      <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-gray-900 md:bg-transparent">
+      <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-black md:bg-transparent">
         <ul className="flex flex-row justify-end space-x-4 md:space-x-6 list-none m-0 p-0">
           <li><Link to="/" className="text-sm transition-colors no-underline">home</Link></li>
           <li><Link to="/influences" className="text-sm transition-colors no-underline">influences</Link></li>
