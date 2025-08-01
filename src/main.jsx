@@ -5,6 +5,7 @@ import App from './App'
 import Home from './pages/Home'
 import Influences from './pages/Influences'
 import Log from './pages/Log'
+import Principles from './pages/Principles'
 
 const router = createHashRouter([
   {
@@ -23,6 +24,10 @@ const router = createHashRouter([
       {
         path: "log",
         element: <Log />,
+      },
+      {
+        path: "principles",
+        element: <Principles />,
       },
     ],
   },

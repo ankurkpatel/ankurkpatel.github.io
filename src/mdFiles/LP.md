@@ -1,19 +1,26 @@
+# ankur
+
+## work
 9-5: building ai regulatory compliance copilot
 
-previously worked in data science/analytics space for almost a decade now.
+previously worked in data science/analytics space for almost a decade.
 
-side projects:  
+## projects
 - ai tutor
 - llm for gujarati language
 
-football fan, manutd supporter, to a point that it's unhealthy -- last 10 years it ruined almost all weekends and still i watch them lol.
+## interests
+**football** — manutd supporter to an unhealthy point. last 10 years ruined almost all weekends, still watch them.
 
-passionate about education. convinced that we don't need 6+ hours of school every day. 1 hour is sufficient amount of teacher interaction in primary school. learned a lot while working at ed nonprofit.
+**education** — convinced we don't need 6+ hours of school daily. 1 hour teacher interaction is sufficient in primary school. learned this working at ed nonprofit.
 
-learning to play ukulele, progress is slow but i'm in it for the long haul.
+**music** — learning ukulele. progress is slow but in it for the long haul.
 
-runner, goal is to run a marathon in next 12 months.
+**running** — goal: marathon in next 12 months.
 
+## future
 starting to be more active on x, planning to go full-time indie in few years.
 
-say hi at [@ankur7](https://x.com/_ankur7) on x.
+---
+
+say hi [@ankur7](https://x.com/_ankur7) on x.
