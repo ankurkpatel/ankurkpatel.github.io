@@ -15,10 +15,10 @@ function App() {
       {/* Navigation */}
       <nav className="fixed bottom-0 right-0 left-0 md:top-0 md:left-0 md:right-0 md:bottom-auto p-4 md:p-6 bg-black md:bg-transparent">
         <ul className="flex flex-row justify-end space-x-4 md:space-x-6 list-none m-0 p-0">
-          <li><Link to="/" className="text-sm transition-colors no-underline">home</Link></li>
-          <li><Link to="/influences" className="text-sm transition-colors no-underline">influences</Link></li>
-          <li><Link to="/log" className="text-sm transition-colors no-underline">logs</Link></li>
-          <li><Link to="/principles" className="text-sm transition-colors no-underline">principles</Link></li>
+          <li><Link to="/" className="text-sm transition-colors no-underline">Home</Link></li>
+          <li><Link to="/influences" className="text-sm transition-colors no-underline">Influences</Link></li>
+          <li><Link to="/log" className="text-sm transition-colors no-underline">Logs</Link></li>
+          <li><Link to="/principles" className="text-sm transition-colors no-underline">Principles</Link></li>
         </ul>
       </nav>
 
@@ -31,7 +31,7 @@ function App() {
 
       {/* Footer */}
       <footer className="hidden md:block text-center p-4 text-sm text-gray-400">
-        © {new Date().getFullYear()} ankurp. All rights reserved.
+        © {new Date().getFullYear()} AnkurP. All rights reserved.
       </footer>
     </div>
   )
