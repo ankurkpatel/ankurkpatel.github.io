@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "echo 'www.ankurp.info' > ./dist/CNAME && gh-pages -d dist"
+    "deploy": "echo www.ankurp.info > ./dist/CNAME && gh-pages -d dist"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -33,7 +33,7 @@
     "globals": "^15.9.0",
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.13",
-    "vite": "^5.4.1",
+    "vite": "^7.1.1",
     "vite-plugin-markdown": "^2.2.0"
   }
 }
