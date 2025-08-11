@@ -114,7 +114,7 @@ Previously worked in data science/analytics space for almost a decade.\r
 **Running** — Goal: marathon in next 12 months.\r
 \r
 ## Future\r
-Starting to be more active on X, planning to go full-time indie in few years.\r
+Starting to be more active on X.\r
 \r
 ---\r
 \r
