@@ -1,157 +1,83 @@
-# Principles
+# Note to Myself
 
-**Small Wins, Big Celebrations**  
-Celebrate even the smallest victories with great enthusiasm.
+## Joy, Play, Beauty
 
-**Happiness is the Purpose**  
-Live joyfully and spread happiness generously.
+- Choose interesting. Design a life that stays interesting.
+- Celebrate small wins like they're big. Joy is a force multiplier.
+- Default to happy. Keep it light; nothing is worth losing your spark.
+- Make it beautiful. Feed your work with warm, nostalgic feelings.
+- Keep it novel without burning out. Rotate toys, not purpose.
+- Life is worth living. Act like it daily.
 
-**Life by Design**  
-Make life interesting. Embrace novelty, creativity, and even playful characters.
+## Identity & Meaning
 
-**Give Meaning to the Ordinary**  
-Infuse your personal touch into the small details of life.
+- Give things your touch. Meaning comes from making it yours.
+- Remember who you are. Love the weird niches that move you.
+- Seek nothing outside; everything you need is already here.
+- Detach from identities to see who you are.
 
-**Always Choose Happiness**  
-Nothing else truly matters. Choose happiness consistently.
+## Craft, Focus & Simplicity
 
-**Build to Feel Alive**  
-Creating something meaningful reignites your spirit—do it often.
+- Constraints are blessings. Start broad, then simplify and unify.
+- No clever bypasses. Finish the real task, then optimize.
+- Take a simple idea seriously. Go deep, not wide.
+- Break complexity with action. Think by building.
+- Make it work, push it hard, then clean it up.
+- Focus like a magnifying glass. Small target, sustained heat.
 
-**Avoid Overwork, Preserve Excitement**  
-Too much work can drain passion. Keep your projects enjoyable by simplifying.
+## Momentum & Action
 
-**Context Defines Meaning**  
-Advice is powerful only within the right context. Respect situational wisdom.
+- Protect momentum. Never break the chain if you can help it.
+- Progress calms the soul. Move one step—now.
+- Motivation follows action, not the other way around.
+- Ship a landing page, get real feedback. Always.
+- Action generates energy. Move first, feel later.
+- To re-enter flow, stack tiny wins until you're rolling.
+- Use emotional surges to break escape velocity.
+- If you're lost, change the search space.
 
-**Embrace Your Rebirth Rituals**  
-Continuously reinvent and renew yourself.
+## Courage, Risk & Leadership
 
-**Leaders Rise Under Pressure**  
-The greatest leadership quality is the ability to create miracles in tough times.
+- Leadership = show up in storms and pull a rabbit from the hat.
+- The river test: stop staring at the water—jump.
+- After a setback, stand up and go again. Courage is reps.
+- Work where others give up. That's your edge.
+- Belief without reasons. Plant your flag and stand.
 
-**Life as Nostalgia**  
-Make your surroundings feel as warm and inviting as your favorite nostalgic movies.
+## Mind, Discipline & Grit
 
-**Optimism from Survival**  
-Emerging from tough situations makes positivity a natural choice.
+- Repetition creates depth. Routine is meditation in motion.
+- Guard the self-talk. Your words decide your weather.
+- Train the uncomfortable-muscle every day.
+- If the mind is noisy, train the body hard; then think.
+- Answers are within. Check inside before you chase outside.
+- When you don't feel like it—do it. Shoot that voice on sight.
+- Take your mind into deep waters until it surrenders.
+- Resist cheap dopamine. Easy things hollow you out.
+- Do hard things to stay yourself.
+- Kill insecurity with learning. Be a loud beginner.
+- Unconform. Your difference is a weapon.
+- Endure and cope when you must. Keep moving.
+- Outlast your mind's story. You can rewrite it.
+- Sometimes try softer—relax into skill (Musashi).
 
-**Simplify to Amplify**  
-Great things often start complex but grow simpler. Embrace constraints—they liberate creativity.
+## Perspective & Renewal
 
-**Novelty Prevents Stagnation**  
-Keep things fresh and engaging to avoid boredom.
+- Context matters. Advice only works in the moment you're in.
+- Practice rebirth. Reset rituals > ruts.
+- Borrow glasses. Use other perspectives to see clearly.
+- Cure boredom with contribution. Start helping; energy follows.
+- When foggy, go a little extreme to regain altitude.
+- Touch grass. National parks are palette cleansers for the brain.
+- Never return to the numbness of stagnation.
 
-**Honor Your Inner Self**  
-Your unique passions, especially the niche ones, define you deeply.
+## Purpose, Time & Legacy
 
-**Routine as Meditation**  
-Repetition and routine lead to deeper mental states that calm and rejuvenate.
-
-**Life is Worth Living**  
-Embody Miyazaki's message—life is beautiful and meaningful.
-
-**Your Inner Narrative Matters**  
-Your happiness or misery depends entirely on the stories you tell yourself.
-
-**Dream, Then Act**  
-Dreams remain dreams unless you courageously act on them.
-
-**Rise Again**  
-Find strength to stand again after setbacks.
-
-**Face Your Blind Spots**  
-Acknowledge what you don't know, and seek clarity proactively.
-
-**Hardship Refines Strength**  
-Struggle strengthens unused mental muscles—seek challenge.
-
-**Purpose Fuels Life**  
-Without clear purpose, the mind and body deteriorate. Stay purposeful.
-
-**Momentum is Magic**  
-Maintaining momentum simplifies life—don't lose it.
-
-**Extreme Action for Clarity**  
-To rise above confusion, take bold, decisive action.
-
-**Physical Discipline Calms Mental Chaos**  
-Use physical exertion to regain mental control.
-
-**Beat Internal Resistance**  
-Silence your inner procrastinator. Take immediate action.
-
-**Seek Deep Waters**  
-Challenge your mind until it submits and grows stronger.
-
-**Stay Committed Under Pressure**  
-When quitting isn't an option, clarity emerges. Embrace the challenge.
-
-**Nature Restores Clarity**  
-Regularly cleanse your mind with nature.
-
-**Productivity Heals**  
-Progress nourishes your willpower and self-esteem.
-
-**Reject Instant Gratification**  
-Easy pleasures degrade; embrace difficulty to preserve self-worth.
-
-**Insecurity Blocks Growth**  
-Embrace insecurity openly, then learn and grow beyond it.
-
-**Time is Precious**  
-You have limited time—use it wisely, intentionally, and boldly.
-
-**Avoid Self-Decay**  
-Choose growth to avoid feeling numb, dull, and lifeless.
-
-**Uncomfortable Action Creates Change**  
-Growth never happens comfortably. Push yourself through discomfort.
-
-**Unconformity is Strength**  
-Non-conformity is your greatest power. Embrace it proudly.
-
-**Everything Lies Within**  
-Seek strength and answers inside yourself, never externally.
-
-**Detach to Discover Yourself**  
-Let go of desires to deeply understand who you are.
-
-**Cope Courageously**  
-Face adversity head-on, adapt, and thrive.
-
-**Remember Your Purpose**  
-You do this to become a better version of yourself and a great father.
-
-**Simplicity Over Complexity**  
-Take a simple idea and execute it thoroughly.
-
-**Reading Revitalizes**  
-Reading is your lifeline to mental vitality.
-
-**Relentless Action Breaks Barriers**  
-Push through complexity actively rather than waiting passively.
-
-**Make It Work, Then Optimize**  
-Achieve functionality first, optimize second.
-
-**Refuse Defeat**  
-Stay determined and reject negative narratives.
-
-**Focused Effort Ignites Change**  
-Like sunlight through a magnifying glass, intense focus sparks powerful results.
-
-**Energy Comes from Action**  
-Lack of energy is cured by action, not rest.
-
-**Tools Augment Capability**  
-Build tools when facing problems beyond immediate mental grasp.
-
-**Animalistic Drive Conquers Complexity**  
-Unleash raw determination on tough challenges.
-
-**Use Momentum to Reignite**  
-Rebuild momentum quickly when you lose focus.
-
-**Belief Needs No Reason**  
-True belief is unshakable and independent of reasons.
+- Purpose keeps the body from sunsetting. Protect it.
+- Stay in the game. Time in the arena beats talent on the couch.
+- Remember time: you're not early anymore. Act like it matters.
+- Build the man your future kid would admire.
+- Read daily. Books keep the inner light on.
+- Build tools that extend your brain. Augment, don't stall.
+- When stuck, go animal—full commitment for a short burst.
+- God felt right to me. Stay humble to the mystery.

@@ -19,7 +19,7 @@ Previously worked in data science/analytics space for almost a decade.
 **Running** — Goal: marathon in next 12 months.
 
 ## Future
-Starting to be more active on X, planning to go full-time indie in few years.
+Starting to be more active on X.
 
 ---
 
